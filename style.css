@@ -1,0 +1,19 @@
+body{
+    color:white;
+    background-color:black;
+    text-align:center;
+    font-size: 20px;
+    font-family:arial, helvetica;
+}
+h4{
+    font-size:40px;
+}
+h2{
+    Position:center;
+}
+h3{
+    font-family:italic;
+}
+hr{
+    color:green;
+}
